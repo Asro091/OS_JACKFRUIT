@@ -2,3 +2,4 @@ rootfs-base/
 rootfs-alpha/
 rootfs-beta/
 *.tar.gz
+engine
